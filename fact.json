@@ -1,5 +1,6 @@
 [
   {
+    "id":1,
     "usuario": "juan.perez",
     "ruc": "20456321987",
     "serie": "F001",
@@ -14,6 +15,7 @@
     "documento":"https:google.com.pe/1"
   },
   {
+    "id":2,
     "usuario": "maria.lopez",
     "ruc": "20587456231",
     "serie": "B002",
@@ -28,6 +30,7 @@
     "documento":"https:google.com.pe/2"
   },
   {
+    "id":3,
     "usuario": "carlos.gomez",
     "ruc": "20789632145",
     "serie": "O003",
@@ -42,6 +45,7 @@
     "documento":"https:google.com.pe/3"
   },
   {
+    "id":4,
     "usuario": "ana.mendoza",
     "ruc": "20321456789",
     "serie": "F004",
@@ -56,6 +60,7 @@
     "documento":"https:google.com.pe/4"
   },
   {
+    "id":5,
     "usuario": "luis.apaza",
     "ruc": "20654321879",
     "serie": "B005",
@@ -70,6 +75,7 @@
     "documento":"https:google.com.pe/4"
   },
   {
+    "id":6,
     "usuario": "roberto.quispe",
     "ruc": "20987654321",
     "serie": "F006",
@@ -84,6 +90,7 @@
     "documento":"https:google.com.pe/5"
   },
   {
+    "id":7,
     "usuario": "paula.torres",
     "ruc": "20234567890",
     "serie": "O007",
