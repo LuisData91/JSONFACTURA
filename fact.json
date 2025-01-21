@@ -10,7 +10,8 @@
     "producto": "alojamiento",
     "ciudad": "lima",
     "importe_total": 350.00,
-    "tiene_igv": "si"
+    "tiene_igv": "si",
+    "documento":"https:google.com.pe/1"
   },
   {
     "usuario": "maria.lopez",
@@ -23,7 +24,8 @@
     "producto": "alimentacion",
     "ciudad": "arequipa",
     "importe_total": 120.50,
-    "tiene_igv": "no"
+    "tiene_igv": "no",
+    "documento":"https:google.com.pe/2"
   },
   {
     "usuario": "carlos.gomez",
@@ -36,7 +38,8 @@
     "producto": "peaje",
     "ciudad": "trujillo",
     "importe_total": 50.00,
-    "tiene_igv": "si"
+    "tiene_igv": "si",
+    "documento":"https:google.com.pe/3"
   },
   {
     "usuario": "ana.mendoza",
@@ -49,7 +52,8 @@
     "producto": "combustible",
     "ciudad": "juliaca",
     "importe_total": 420.00,
-    "tiene_igv": "si"
+    "tiene_igv": "si",
+    "documento":"https:google.com.pe/4"
   },
   {
     "usuario": "luis.apaza",
@@ -62,7 +66,8 @@
     "producto": "insumos",
     "ciudad": "cuzco",
     "importe_total": 200.00,
-    "tiene_igv": "no"
+    "tiene_igv": "no",
+    "documento":"https:google.com.pe/4"
   },
   {
     "usuario": "roberto.quispe",
@@ -75,7 +80,8 @@
     "producto": "gas",
     "ciudad": "ica",
     "importe_total": 80.00,
-    "tiene_igv": "si"
+    "tiene_igv": "si",
+    "documento":"https:google.com.pe/5"
   },
   {
     "usuario": "paula.torres",
@@ -88,6 +94,7 @@
     "producto": "servicio de taxi",
     "ciudad": "huacho",
     "importe_total": 65.00,
-    "tiene_igv": "no"
+    "tiene_igv": "no",
+    "documento":"https:google.com.pe/6"
   }
 ]
