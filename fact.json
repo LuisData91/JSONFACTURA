@@ -1,0 +1,93 @@
+[
+  {
+    "usuario": "juan.perez",
+    "ruc": "20456321987",
+    "serie": "F001",
+    "numero_documento": "00012345",
+    "modalidad": "viaticos lima",
+    "fecha_emision": "2025-01-15",
+    "tipo_comprobante": "factura",
+    "producto": "alojamiento",
+    "ciudad": "lima",
+    "importe_total": 350.00,
+    "tiene_igv": "si"
+  },
+  {
+    "usuario": "maria.lopez",
+    "ruc": "20587456231",
+    "serie": "B002",
+    "numero_documento": "00056789",
+    "modalidad": "caja chica arequipa",
+    "fecha_emision": "2025-01-16",
+    "tipo_comprobante": "boleta",
+    "producto": "alimentacion",
+    "ciudad": "arequipa",
+    "importe_total": 120.50,
+    "tiene_igv": "no"
+  },
+  {
+    "usuario": "carlos.gomez",
+    "ruc": "20789632145",
+    "serie": "O003",
+    "numero_documento": "00098765",
+    "modalidad": "viaticos norte",
+    "fecha_emision": "2025-01-14",
+    "tipo_comprobante": "otros comprobantes",
+    "producto": "peaje",
+    "ciudad": "trujillo",
+    "importe_total": 50.00,
+    "tiene_igv": "si"
+  },
+  {
+    "usuario": "ana.mendoza",
+    "ruc": "20321456789",
+    "serie": "F004",
+    "numero_documento": "00123456",
+    "modalidad": "viaticos sur",
+    "fecha_emision": "2025-01-18",
+    "tipo_comprobante": "factura",
+    "producto": "combustible",
+    "ciudad": "juliaca",
+    "importe_total": 420.00,
+    "tiene_igv": "si"
+  },
+  {
+    "usuario": "luis.apaza",
+    "ruc": "20654321879",
+    "serie": "B005",
+    "numero_documento": "00234567",
+    "modalidad": "caja chica chiclayo",
+    "fecha_emision": "2025-01-17",
+    "tipo_comprobante": "boleta",
+    "producto": "insumos",
+    "ciudad": "cuzco",
+    "importe_total": 200.00,
+    "tiene_igv": "no"
+  },
+  {
+    "usuario": "roberto.quispe",
+    "ruc": "20987654321",
+    "serie": "F006",
+    "numero_documento": "00345678",
+    "modalidad": "caja chica lima",
+    "fecha_emision": "2025-01-19",
+    "tipo_comprobante": "factura",
+    "producto": "gas",
+    "ciudad": "ica",
+    "importe_total": 80.00,
+    "tiene_igv": "si"
+  },
+  {
+    "usuario": "paula.torres",
+    "ruc": "20234567890",
+    "serie": "O007",
+    "numero_documento": "00456789",
+    "modalidad": "viaticos lima",
+    "fecha_emision": "2025-01-20",
+    "tipo_comprobante": "otros comprobantes",
+    "producto": "servicio de taxi",
+    "ciudad": "huacho",
+    "importe_total": 65.00,
+    "tiene_igv": "no"
+  }
+]
